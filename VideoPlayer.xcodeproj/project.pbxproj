@@ -13,6 +13,7 @@
 		77232BB82ADEC01D00977413 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77232BB62ADEC01D00977413 /* Main.storyboard */; };
 		77232BBA2ADEC02000977413 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77232BB92ADEC02000977413 /* Assets.xcassets */; };
 		77232BBD2ADEC02000977413 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77232BBB2ADEC02000977413 /* LaunchScreen.storyboard */; };
+		77232BC52ADEC42E00977413 /* Duke Dumont - Ocean Drive (Official Music Video).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 77232BC42ADEC42E00977413 /* Duke Dumont - Ocean Drive (Official Music Video).mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		77232BB92ADEC02000977413 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77232BBC2ADEC02000977413 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77232BBE2ADEC02000977413 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77232BC42ADEC42E00977413 /* Duke Dumont - Ocean Drive (Official Music Video).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Duke Dumont - Ocean Drive (Official Music Video).mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				77232BB02ADEC01D00977413 /* AppDelegate.swift */,
 				77232BB22ADEC01D00977413 /* SceneDelegate.swift */,
 				77232BB42ADEC01D00977413 /* ViewController.swift */,
+				77232BC42ADEC42E00977413 /* Duke Dumont - Ocean Drive (Official Music Video).mp4 */,
 				77232BB62ADEC01D00977413 /* Main.storyboard */,
 				77232BB92ADEC02000977413 /* Assets.xcassets */,
 				77232BBB2ADEC02000977413 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				77232BBD2ADEC02000977413 /* LaunchScreen.storyboard in Resources */,
 				77232BBA2ADEC02000977413 /* Assets.xcassets in Resources */,
+				77232BC52ADEC42E00977413 /* Duke Dumont - Ocean Drive (Official Music Video).mp4 in Resources */,
 				77232BB82ADEC01D00977413 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
